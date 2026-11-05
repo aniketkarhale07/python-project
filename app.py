@@ -12,7 +12,7 @@ def home():
     </head>
     <body>
         <h1>Welcome to Flask Application</h1>
-        <h2>Version 1.0.0</h2>
+        <h2>Version 2.0.0</h2>
         <p>Application deployed successfully using Jenkins!</p>
     </body>
     </html>
