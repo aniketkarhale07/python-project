@@ -12,11 +12,11 @@ def home():
     </head>
     <body>
         <h1>Welcome to Flask Application</h1>
-        <h2>Version 3.0.0</h2>
+        <h2>Version 1.0.0</h2>
         <p>Application deployed successfully using Jenkins!</p>
     </body>
     </html>
     """
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=7000)
